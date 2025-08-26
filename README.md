@@ -9,8 +9,7 @@ This is a R&D project for country phone number verification using `googlecode`, 
 ### Prerequisites
 Make sure you have the following installed:
 - **Java 17+**  
-- **Maven** or **Gradle**  
-- **Spring Boot** (for integration examples)  
+- **Maven**   
 - An IDE such as **IntelliJ IDEA** or **Eclipse**
 
 ### Clone the Repository
